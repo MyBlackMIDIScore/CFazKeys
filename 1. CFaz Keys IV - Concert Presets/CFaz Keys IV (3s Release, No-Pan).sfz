@@ -1,0 +1,1997 @@
+//////////////////////////////////////
+// CFaz Keys IV Concert Grand Piano //
+//////////////////////////////////////
+
+// The piano samples and the Cakewalk SFZ presets are created by MBMS (https://mbms.me)
+// Project's webpage: https://mbms.me/soundfonts/cfaz4
+
+// This soundfont is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.
+// You can find the LICENSE.md file in the root of this directorty.
+// For special use cases please contact MBMS (https://mbms.me/contact)
+
+// Please make backups of the SFZ files before editing them.
+
+// Soundfont version: 4.0 (IV)
+// Presets version (SFZ): 3.1
+
+// End of comments
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=114 hivel=127
+ampeg_release=3
+cutoff=16000
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lokey=0 hikey=127
+lovel=108 hivel=113
+cutoff=6971
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=102 hivel=107
+cutoff=6371
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=96 hivel=101
+cutoff=5775
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=90 hivel=95
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=84 hivel=89
+cutoff=4581
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=78 hivel=83
+cutoff=3983
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=72 hivel=77
+cutoff=3384
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=66 hivel=71
+cutoff=2787
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=60 hivel=65
+cutoff=2191
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=54 hivel=59
+cutoff=1792
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=48 hivel=53
+cutoff=1394
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=42 hivel=47
+cutoff=996
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=36 hivel=41
+cutoff=796
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=30 hivel=35
+cutoff=697
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=24 hivel=29
+cutoff=597
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=18 hivel=23
+cutoff=498
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=12 hivel=17
+cutoff=398
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=6 hivel=11
+cutoff=299
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+loop_mode=no_loop
+lovel=0 hivel=5
+cutoff=100
+ampeg_release=3
+
+<region> sample=../.PianoSamples/CFAZIV_021.wav lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=../.PianoSamples/CFAZIV_022.wav key=22
+<region> sample=../.PianoSamples/CFAZIV_023.wav key=23
+<region> sample=../.PianoSamples/CFAZIV_024.wav key=24
+<region> sample=../.PianoSamples/CFAZIV_025.wav key=25
+<region> sample=../.PianoSamples/CFAZIV_026.wav key=26
+<region> sample=../.PianoSamples/CFAZIV_027.wav key=27
+<region> sample=../.PianoSamples/CFAZIV_028.wav key=28
+<region> sample=../.PianoSamples/CFAZIV_029.wav key=29
+<region> sample=../.PianoSamples/CFAZIV_030.wav key=30
+<region> sample=../.PianoSamples/CFAZIV_031.wav key=31
+<region> sample=../.PianoSamples/CFAZIV_032.wav key=32 
+<region> sample=../.PianoSamples/CFAZIV_033.wav key=33
+<region> sample=../.PianoSamples/CFAZIV_034.wav key=34
+<region> sample=../.PianoSamples/CFAZIV_035.wav key=35
+<region> sample=../.PianoSamples/CFAZIV_036.wav key=36
+<region> sample=../.PianoSamples/CFAZIV_037.wav key=37
+<region> sample=../.PianoSamples/CFAZIV_038.wav key=38
+<region> sample=../.PianoSamples/CFAZIV_039.wav key=39
+<region> sample=../.PianoSamples/CFAZIV_040.wav key=40
+<region> sample=../.PianoSamples/CFAZIV_041.wav key=41
+<region> sample=../.PianoSamples/CFAZIV_042.wav key=42
+<region> sample=../.PianoSamples/CFAZIV_043.wav key=43
+<region> sample=../.PianoSamples/CFAZIV_044.wav key=44
+<region> sample=../.PianoSamples/CFAZIV_045.wav key=45
+<region> sample=../.PianoSamples/CFAZIV_046.wav key=46
+<region> sample=../.PianoSamples/CFAZIV_047.wav key=47
+<region> sample=../.PianoSamples/CFAZIV_048.wav key=48
+<region> sample=../.PianoSamples/CFAZIV_049.wav key=49
+<region> sample=../.PianoSamples/CFAZIV_050.wav key=50
+<region> sample=../.PianoSamples/CFAZIV_051.wav key=51
+<region> sample=../.PianoSamples/CFAZIV_052.wav key=52
+<region> sample=../.PianoSamples/CFAZIV_053.wav key=53
+<region> sample=../.PianoSamples/CFAZIV_054.wav key=54
+<region> sample=../.PianoSamples/CFAZIV_055.wav key=55
+<region> sample=../.PianoSamples/CFAZIV_056.wav key=56
+<region> sample=../.PianoSamples/CFAZIV_057.wav key=57
+<region> sample=../.PianoSamples/CFAZIV_058.wav key=58
+<region> sample=../.PianoSamples/CFAZIV_059.wav key=59
+<region> sample=../.PianoSamples/CFAZIV_060.wav key=60
+<region> sample=../.PianoSamples/CFAZIV_061.wav key=61
+<region> sample=../.PianoSamples/CFAZIV_062.wav key=62
+<region> sample=../.PianoSamples/CFAZIV_063.wav key=63
+<region> sample=../.PianoSamples/CFAZIV_064.wav key=64
+<region> sample=../.PianoSamples/CFAZIV_065.wav key=65
+<region> sample=../.PianoSamples/CFAZIV_066.wav key=66
+<region> sample=../.PianoSamples/CFAZIV_067.wav key=67
+<region> sample=../.PianoSamples/CFAZIV_068.wav key=68
+<region> sample=../.PianoSamples/CFAZIV_069.wav key=69
+<region> sample=../.PianoSamples/CFAZIV_070.wav key=70
+<region> sample=../.PianoSamples/CFAZIV_071.wav key=71
+<region> sample=../.PianoSamples/CFAZIV_072.wav key=72
+<region> sample=../.PianoSamples/CFAZIV_073.wav key=73
+<region> sample=../.PianoSamples/CFAZIV_074.wav key=74
+<region> sample=../.PianoSamples/CFAZIV_075.wav key=75
+<region> sample=../.PianoSamples/CFAZIV_076.wav key=76
+<region> sample=../.PianoSamples/CFAZIV_077.wav key=77
+<region> sample=../.PianoSamples/CFAZIV_078.wav key=78
+<region> sample=../.PianoSamples/CFAZIV_079.wav key=79
+<region> sample=../.PianoSamples/CFAZIV_080.wav key=80
+<region> sample=../.PianoSamples/CFAZIV_081.wav key=81
+<region> sample=../.PianoSamples/CFAZIV_082.wav key=82
+<region> sample=../.PianoSamples/CFAZIV_083.wav key=83
+<region> sample=../.PianoSamples/CFAZIV_084.wav key=84
+<region> sample=../.PianoSamples/CFAZIV_085.wav key=85
+<region> sample=../.PianoSamples/CFAZIV_086.wav key=86
+<region> sample=../.PianoSamples/CFAZIV_087.wav key=87
+<region> sample=../.PianoSamples/CFAZIV_088.wav key=88
+<region> sample=../.PianoSamples/CFAZIV_089.wav key=89
+<region> sample=../.PianoSamples/CFAZIV_090.wav key=90
+<region> sample=../.PianoSamples/CFAZIV_091.wav key=91
+<region> sample=../.PianoSamples/CFAZIV_092.wav key=92
+<region> sample=../.PianoSamples/CFAZIV_093.wav key=93
+<region> sample=../.PianoSamples/CFAZIV_094.wav key=94
+<region> sample=../.PianoSamples/CFAZIV_095.wav key=95
+<region> sample=../.PianoSamples/CFAZIV_096.wav key=96
+<region> sample=../.PianoSamples/CFAZIV_097.wav key=97
+<region> sample=../.PianoSamples/CFAZIV_098.wav key=98
+<region> sample=../.PianoSamples/CFAZIV_099.wav key=99
+<region> sample=../.PianoSamples/CFAZIV_100.wav key=100
+<region> sample=../.PianoSamples/CFAZIV_101.wav key=101
+<region> sample=../.PianoSamples/CFAZIV_102.wav key=102
+<region> sample=../.PianoSamples/CFAZIV_103.wav key=103
+<region> sample=../.PianoSamples/CFAZIV_104.wav key=104
+<region> sample=../.PianoSamples/CFAZIV_105.wav key=105
+<region> sample=../.PianoSamples/CFAZIV_106.wav key=106
+<region> sample=../.PianoSamples/CFAZIV_107.wav key=107
+<region> sample=../.PianoSamples/CFAZIV_108.wav lokey=108 hikey=127 pitch_keycenter=108
