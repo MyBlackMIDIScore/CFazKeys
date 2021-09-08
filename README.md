@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://github.com/MyBlackMIDIScore/CFazKeys/releases/"><img src="https://img.shields.io/github/release/MyBlackMIDIScore/CFazKeys" alt="GitHub release"></a>
     <a href="https://github.com/MyBlackMIDIScore/CFazKeys/releases/"><img src="https://img.shields.io/github/downloads/MyBlackMIDIScore/CFazKeys/total" alt="GitHub release"></a>
-    <a href="https://github.com/MyBlackMIDIScore/CFazKeys/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/License-CC%20BY--ND%204.0-blue" alt="CC BY-ND 4.0"></a>
+    <a href="https://github.com/MyBlackMIDIScore/CFazKeys/blob/cfazkeysiv/LICENSE.md"><img src="https://img.shields.io/badge/License-CC%20BY--ND%204.0-blue" alt="CC BY-ND 4.0"></a>
 </p>
 
 ## About this soundfont
